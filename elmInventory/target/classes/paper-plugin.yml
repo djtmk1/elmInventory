@@ -1,0 +1,4 @@
+name: elmInventory
+version: '1.0'
+main: org.djtmk.elmInventory.ElmInventory
+api-version: '1.21'

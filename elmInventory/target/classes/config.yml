@@ -1,0 +1,25 @@
+worlds:
+  Customs:
+    enabled: true
+    clear_on_enter: true
+    clear_on_exit: false
+    set_gamemode: true
+    gamemode: "CREATIVE"
+
+  Spawn:
+    enabled: true
+    clear_on_enter: false
+    clear_on_exit: true
+    set_gamemode: true
+    gamemode: "ADVENTURE"
+
+    #Example: Example to set more worlds if you wish
+    #enabled: true
+    #clear_on_enter: false
+    #clear_on_exit: true
+    #set_gamemode: true
+    #gamemode: "ADVENTURE"
+
+messages:
+  inventory_cleared: "&cYour inventory has been cleared."
+  #inventory_cleared: "&cYour inventory has been cleared."
