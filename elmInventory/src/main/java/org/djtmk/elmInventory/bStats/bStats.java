@@ -13,7 +13,7 @@ public class bStats extends JavaPlugin {
         Metrics metrics = new Metrics(this, pluginId);
 
         // Optional: Add custom charts
-        //metrics.addCustomChart(new Metrics.SimplePie("chart_id", () -> "My value"));
+        //metrics.addCustomChart(new Metrics.SimplePie("chart_id", () -> "My value")); <--Get this to work
     }
-
+//Need to update version in prom.xml to 3.1.0
 }
